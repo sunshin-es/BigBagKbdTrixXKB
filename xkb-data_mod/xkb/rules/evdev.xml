@@ -1486,7 +1486,7 @@
         <variant>
           <configItem>
             <name>cmk_ed_dh</name>
-            <description>English (Colemak[eD], Curl-DH ergo mod)</description>
+            <description>English (Colemak, Mod-DH, Vim and AltGr DE)</description>
           </configItem>
         </variant>
         <variant>

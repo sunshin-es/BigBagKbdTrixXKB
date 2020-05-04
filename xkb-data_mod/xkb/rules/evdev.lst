@@ -312,7 +312,7 @@
   tarmak2c_et     us: English (Tarmak2C - Colemak[eD] Curl-DH transitional)
   tarmak3__etr    us: English (Tarmak3 - Colemak[eD] transitional)
   tarmak4__etro   us: English (Tarmak4 - Colemak[eD] transitional)
-  cmk_ed_dh       us: English (Colemak[eD], Curl-DH ergo mod)
+  cmk_ed_dh       us: English (Colemak, Mod-DH, Vim and AltGr DE)
   cmk_ed_mirror   us: English (Colemak[eD], mirrored)
   dvorak          us: English (Dvorak)
   dvorak-intl     us: English (Dvorak, intl., with dead keys)
