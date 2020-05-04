@@ -1,5 +1,19 @@
-DreymaR's Big Bag of Keyboard Tricks
+DreymaR's Big Bag of Keyboard Tricks (forked)
 ====================================
+
+### Updates in fork
+The goal is to align the layout to be similar to the layout provided by:
+[My Dactyl Keyboard](https://github.com/sunshin-es/ergodox-firmware).
+
+Some updates from the original are:
+* For the ANSI keyboard the Z is **not** relocated. This makes it similar (in my opinion) to the ergo layout
+* The CAPS key is mapped to Escape
+* ; and / are also switched from the "standard" Colemak
+* Better support for German text entry:
+  * AltGr + a/A -> ä/Ä
+  * AltGr + o/o -> ö/Ö
+  * AltGr + u/u -> ü/Ü
+  * AltGr + s   -> ß
 
 ### For Linux (updated to [XKB-data v2.23.1-1ubuntu1][XKBdat], 2018-08)
 
