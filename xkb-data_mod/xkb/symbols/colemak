@@ -154,7 +154,7 @@ xkb_symbols "cmk_ed_letters" {
 //// Activating the line below will "hard" enable the Curl(DH) mod; see below.
 //    include "colemak(cmk_ed_dh)"
 //// Activating the line below will "hard" enable the old Curl(DHm) mod; see below.
-//    include "colemak(cmk_ed_dhm)"
+    include "colemak(cmk_ed_dhm)"
 //// This is the old Curl(DvH) Colemak ergo mod, keeping V and M in place.
 //    include "colemak(cmk_ed_dvh)"
 };
@@ -270,9 +270,9 @@ xkb_symbols "cmk_ed_dbg" {
     // In the new implementation, D is moved inside V by one of the CurlAngle mods (to affect Extend)
     key <AD05> { [             b,             B,  enfilledcircbullet,          Greek_beta ] }; // QWE T Cmk G
     key <AC05> { [             g,             G,                 eng,                 ENG ] }; // QWE G Cmk D
-    key <AB05> { [             d,             D,                 eth,                 ETH ] }; // QWE/Cmk B
-//    key <AB04> { [             d,             D,                 eth,                 ETH ] }; // QWE/Cmk V
-//    key <AB05> { [             v,             V,            division,         Greek_gamma ] }; // QWE/Cmk B
+//    key <AB05> { [             d,             D,                 eth,                 ETH ] }; // QWE/Cmk B
+    key <AB04> { [             d,             D,                 eth,                 ETH ] }; // QWE/Cmk V
+    key <AB05> { [             v,             V,            division,         Greek_gamma ] }; // QWE/Cmk B
 };
 
 hidden partial alphanumeric_keys
